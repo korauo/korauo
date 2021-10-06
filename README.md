@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on <a href="https://github.com/korauo/ulob">ulob</a>
 - 💌 Talk to me on <a href="https://www.twitter.com/korauo">Twitter</a>
 - ✋ Pronouns: he/him
+- 🥴 shitty bot dev who needs help 24/7
 
 ### My Languages and Tools:
 <div>

@@ -6,12 +6,14 @@
 ## My Languages and Tools:
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://discord.js.org/t" target="_blank"> <img src="https://discordjs.guide/meta-image.png"/> </a> 
+    <a href="https://discord.js.org/t" target="_blank"> <img src="https://i.imgur.com/4YNPhUe.png"/> </a> 
+    alt="mongodb" width="48" height="48"/> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
-    
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-alt="express" width="40" height="40"/> </a>
+    alt="mongodb" width="48" height="48"/> </a>
+    
+    
 </p>
   
 <p align="center">

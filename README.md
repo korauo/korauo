@@ -4,7 +4,7 @@
 - 💌 Talk to me on <a href="https://www.twitter.com/korauo">Twitter</a>
 
 ## My Languages and Tools:
-<p align="left"> 
+<p align="middle"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://discord.js.org/t" target="_blank"> <img src="https://i.imgur.com/4YNPhUe.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 

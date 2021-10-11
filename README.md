@@ -9,6 +9,12 @@
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png"/> 
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png"/> <br><br>
+  
+<p align="center">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="korauo's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=korauo&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
   
 ## 📊 My Github Stats

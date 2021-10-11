@@ -4,11 +4,15 @@
 - 💌 Talk to me on <a href="https://www.twitter.com/korauo">Twitter</a>
 
 ## My Languages and Tools:
-<div>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
-<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png"/> 
-<img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png"/> <br><br>
+<p align="left"> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    <a href="https://discord.js.org/t" target="_blank"> <img src="https://discordjs.guide/meta-image.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
+    
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+alt="express" width="40" height="40"/> </a>
+</p>
   
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">

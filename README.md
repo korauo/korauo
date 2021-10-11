@@ -16,6 +16,9 @@
 
 <div>
 <p align="left">
+  <img src="https://discord.c99.nl/widget/theme-4/852985778584944691.png" alt="ko" />
+</p>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=korauo&show_icons=true&locale=en&theme=dark&layout=compact" alt="ko" />
 </p>
 <p align="left">

@@ -25,3 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=korauo&show_icons=true&locale=en&layout=compact&theme=dark" alt="ko" />
 </p>
 <div>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+

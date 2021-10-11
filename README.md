@@ -6,7 +6,7 @@
 ## 🚀 My Languages and Tools:
 <p align="left"> 
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://i.imgur.com/Co3A5xN.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://i.imgur.com/FJtwVMw.png"/> </a>
     <a href="https://discord.js.org/t" target="_blank"> <img src="https://i.imgur.com/4YNPhUe.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"

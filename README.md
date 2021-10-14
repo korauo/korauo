@@ -23,6 +23,12 @@
     </a>
 </p>
 
+<p align="left">
+    <a href="https://discord.gg/buSp4QTHP7">
+        <img title="hiii!" alt="no" src="https://discord.c99.nl/widget/theme-4/852985778584944691.png"/>
+    </a>
+</p>
+
   
 ## 📊 My Github Stats
 

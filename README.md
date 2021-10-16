@@ -1,7 +1,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on <a href="https://github.com/korauo/ulob">ulob</a>
-- 💌 Talk to me on <a href="https://www.twitter.com/korauo">Twitter</a>
+- 💌 Talk to me on <a href="https://www.twitter.com/korauo">Twitter</a> and <a href="https://discord.com/users/852985778584944691">Discord</a>
 
 ## 🚀 My Languages and Tools:
 <p align="left"> 

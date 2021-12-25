@@ -1,6 +1,6 @@
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on <a href="https://github.com/korauo/ulob">ulob</a>
+- 🔭 I’m currently working on nothing. </a>
 - 💌 Talk to me on <a href="https://www.twitter.com/korauo">Twitter</a> and <a href="https://discord.com/users/852985778584944691">Discord</a>
 
 ## 🚀 My Languages and Tools:
@@ -17,11 +17,6 @@
     
 </p>
 
-<p align="left">
-    <a href="https://discord.gg/buSp4QTHP7">
-        <img title="hiii!" alt="no" src="https://discord.c99.nl/widget/theme-4/852985778584944691.png"/>
-    </a>
-</p>
 
 <p align="left">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">

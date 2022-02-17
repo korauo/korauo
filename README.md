@@ -3,7 +3,9 @@
 - 🔭 im currently working on nothing. </a>
 - 💌 talk to me on <a href="https://www.twitter.com/korauo">Twitter</a> and <a href="https://discord.com/users/852985778584944691">Discord</a>
 
-## 🚀 My Languages and Tools:
+[![Discord Presence](https://lanyard.cnrad.dev/api/852985778584944691?idleMessage=:%22chilling%22])](https://discord.com/users/852985778584944691)'
+
+## stuff i use
 <p align="left"> 
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://i.imgur.com/Co3A5xN.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://i.imgur.com/FJtwVMw.png"/> </a>
@@ -14,5 +16,4 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/852985778584944691?idleMessage=:%22chilling%22
-])](https://discord.com/users/852985778584944691)
+

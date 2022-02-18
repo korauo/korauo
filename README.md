@@ -3,7 +3,7 @@
 - 🔭 im currently working on nothing. </a>
 - 💌 talk to me on <a href="https://www.twitter.com/korauo">Twitter</a> and <a href="https://discord.com/users/852985778584944691">Discord</a>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/852985778584944691?idleMessage=:%22chilling%22)](https://discord.com/users/852985778584944691)
+[![Discord Presence](https://lanyard.cnrad.dev/api/852985778584944691?idleMessage=:chilling)](https://discord.com/users/852985778584944691)
 
 ## stuff i use
 <p align="left"> 

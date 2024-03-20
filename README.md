@@ -1,19 +1,23 @@
-## about me :)
+<p align="center"><img width="80%" alt="hey, i'm korauo" src="https://i.imgur.com/ZtqVxES.png" /></p>
+<br>
 
-- 🔭 im currently learning Vue.js, TailwindCSS and Express.js </a>
-- 💌 talk to me on <a href="https://www.twitter.com/korauo">Twitter</a> and <a href="https://discord.com/users/852985778584944691">Discord</a>
+**About Me**
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/852985778584944691?idleMessage=chilling)](https://discord.com/users/852985778584944691)
+- 🔭 i’m currently working on **ramadan-vuejs**
 
-## stuff i use
-<p align="left"> 
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://i.imgur.com/Co3A5xN.png" width="32" height="32"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://i.imgur.com/FJtwVMw.png" width="32" height="32"/> </a>
-    <a href="https://discord.js.org/t" target="_blank"> <img src="https://i.imgur.com/4YNPhUe.png" width="32" height="32"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="32" height="32"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-                                                                 alt="mongodb" width="32" height="32"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="32" height="32"/> </a> 
+- 🌱 I’m currently learning **vuejs, svelte, tailwindcss and express.js**
+
+- 📫 reach me on  [**discord @korauo**](https://discord.com/users/852985778584944691)
+
+<br>
+
+<p align="center">
+    <img src="https://api.statusbadges.me/badge/status/852985778584944691" alt="status"> <img src="https://api.statusbadges.me/badge/playing/852985778584944691" alt="playing"> <img src="https://api.statusbadges.me/badge/vscode/852985778584944691" alt="vscode"> <a href="https://api.statusbadges.me/openspotify/852985778584944691" target="_blank" rel="noopener"><img src="https://api.statusbadges.me/badge/spotify/852985778584944691" alt="spotify"></a>
 </p>
+<br>
 
+<h3 align="left">Languages and Tools:</h3>
 
+<p align="center"><img src="https://skillicons.dev/icons?i=vue,svelte,tailwindcss,ts,js,html,css,nodejs,mongodb,vscode,photoshop,figma"></p>
+<br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=korauo&show_icons=true&theme=dark&hide_border=true" alt="korauo's github stats" /></p> 
